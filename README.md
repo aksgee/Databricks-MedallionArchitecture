@@ -103,3 +103,5 @@ The lakehouse architecture, empowered by Delta Lake, uses the medallion architec
 1. **Bronze Layer**: This layer holds raw data ingested from various sources. Data is stored in its original format with minimal processing.
 2. **Silver Layer**: In this layer, data is cleaned, filtered, and conformed to provide a more refined view. This layer is suitable for intermediate analytics and reporting.
 3. **Gold Layer**: The gold layer contains highly processed and enriched data, optimized for business analytics, reporting, and advanced data science applications.
+
+![**Medallion Architecture**](https://www.databricks.com/sites/default/files/inline-images/building-data-pipelines-with-delta-lake-120823.png?v=1702318922) 
