@@ -43,7 +43,7 @@ A modern data warehouse architecture typically includes a series of interconnect
 
 Here's a simplified diagram provided by microsoft illustrating this architecture:
 
-![Modern Datawarehouse using MS Azure]([ ](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/azure-databricks-modern-analytics-architecture.svg#lightbox)"Modern Datatwarehouse")
+![Modern Datawarehouse using MS Azure](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/azure-databricks-modern-analytics-architecture.svg#lightbox)
 
 This architecture supports efficient data management, robust analytics, and scalable solutions for handling large volumes of data.
 
